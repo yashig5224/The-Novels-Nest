@@ -55,9 +55,6 @@ We're always excited to work with:
 Feel free to fork, star ⭐, or open issues in any of our repos!
 
 Author-Yashi Gupta
-> “Stories are wild creatures. When you let them loose, who knows what havoc they might wreak.” – Patrick Ness
-
----
 
 © 2025 Novels Nest • All rights reserved.
 
