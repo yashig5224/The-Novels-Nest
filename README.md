@@ -1,28 +1,23 @@
-## 📚 Novel's Nest
-Novel's Nest is a minimal and elegant web platform built using HTML, CSS, and JavaScript that allows users to explore and enjoy curated novels or short stories. Designed with a clean aesthetic and smooth navigation, it focuses on providing a distraction-free reading experience.
+# 📚 The Novel’s Nest
+The Novel’s Nest is a beautifully designed book discovery platform that helps readers explore novels across genres with ease. Built using HTML, CSS, and JavaScript, it offers a clean interface and smooth user interactions — ideal for bibliophiles and web design enthusiasts alike.
 
+# ✨ Features
+📖 Genre-based Browsing – Discover books by categories like Fantasy, Mystery, Romance, and more.
+🔍 Search Functionality – Find novels by title or author in real-time.
+🌈 Aesthetic UI – Smooth, minimal layout with an emphasis on readability and design.
+📱 Responsive Design – Optimized for all screen sizes: desktops, tablets, and mobile devices.
+🎨 Creative Typography & Icons – Stylish fonts and intuitive icons to enhance user experience.
 
-## ✨ Features
-📖 Beautiful landing page with an introduction to the platform
-🔍 Sections for featured novels, categories, and latest uploads
-💡 Smooth animations for transitions and content load
-📱 Fully responsive design for mobile and tablet devices
-📝 Space for author info and novel summaries
-
-## 📁 Folder Structure
-NovelsNest/
+# 🗂 Folder Structure
+novels-nest/
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   ├── banner.jpg
-│   ├── book1.png
-│   └── book2.png
-├── screenshots/
-│   └── novelsnest-preview.png
-├── README.md
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── icons/
+└── README.md
+
 
 ## 🛠️ Built With
 HTML5 – structure and layout
@@ -37,9 +32,10 @@ JavaScript – interactions and animations
 ## 🚧 Project Status
 🟡 Currently in Progress
 Upcoming improvements:
-   Add search and filter functionality
-   Include user login/registration (future scope)
-   Add a dynamic novel reader component
+   🗂 Adding book detail pages with summaries and ratings.
+   💬 Integrating user reviews and comments section.
+   🌐 Planning to integrate local storage for user bookmarks.
+   🧠 Exploring an API for real-time book data.
 
 ## 💌 Contribution
 Feel free to fork the repo, suggest improvements, or create pull requests if you have creative ideas!
