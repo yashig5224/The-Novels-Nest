@@ -1,60 +1,28 @@
-# 📚 Novels Nest
+📚 The Novel's Nest
+A vintage-themed landing page for book lovers, built with HTML, CSS, and JavaScript.
 
-**Welcome to Novels Nest!**  
-A cozy corner of the internet where storytelling meets technology.
+✨ Overview
+The Novel's Nest is a cozy, vintage-inspired book landing page that celebrates literature with a nostalgic aesthetic. Designed for bibliophiles, indie bookstores, or book-related projects, it includes genre sections, smooth animations, and a custom logo.
 
-We craft digital experiences for book lovers, authors, and dreamers — blending literature and code to create elegant, interactive platforms for reading and writing.
+🖼️ Preview
 
----
+Soft cream tones, ornate flourishes, and a warm vintage feel.
 
-## 💡 What We Do
+🔧 Features
+🎨 Vintage Design — Soft cream/brown color palette with cursive typography.
 
-✨ Build responsive web apps for novel reading and writing  
-📖 Design clean, modern UIs for authors and publishers  
-🧠 Share creative coding projects inspired by literature  
-🤝 Collaborate with writers, developers, and artists  
+📚 Genre Sections — Fiction, Mystery, Romance, Fantasy (with images).
 
----
+🎬 Scroll Animations — Smooth fade-in on scroll.
 
-## 🚀 Featured Projects
+🪹 Custom Logo — Nest with books inside antique floral frame.
 
-- **📘 ReadNest** — A minimal, elegant online reader for novels  
-- **🖋️ AuthorBase** — Personal websites and portfolios for authors  
-- **🔍 NovelHunt** — A discovery tool for indie books and new releases  
-- **✍️ InkClub** — A writing community with task boards and progress tracking  
+📱 Responsive — Works across desktops and mobile devices.
 
-> All projects use HTML, CSS, JavaScript, and modern frameworks like React and Firebase.
-
----
-
-## 🌐 Connect With Us
-
-- 📸 Instagram: [@novelsnest](https://instagram.com/novelsnest)  
-- 🐦 Twitter: [@novelsnest](https://twitter.com/novelsnest)  
-- 📩 Email: novelsnest@gmail.com  
-- 🌍 Website: [www.novelsnest.com](https://www.novelsnest.com) *(optional)*
-
----
-
-## 🛠 Tech Stack
-
-- `HTML`, `CSS`, `JavaScript`, `React`, `Tailwind CSS`  
-- `Firebase`, `Node.js`, `Express`, `GitHub Pages`  
-- `Figma`, `Canva`, `Adobe XD` for design work
-
----
-
-## 🙌 Want to Collaborate?
-
-We're always excited to work with:
-- Authors seeking personal web portfolios  
-- Developers with creative ideas  
-- Designers who love literature  
-- Readers who love tech
-
-Feel free to fork, star ⭐, or open issues in any of our repos!
+🛠️ Tech Stack
+HTML5 — Semantic layout
+CSS3 — Grid, transitions, custom fonts
+JavaScript — Intersection Observer animations
+Fonts — Playfair Display, Cormorant Garamond
 
 Author-Yashi Gupta
-
-© 2025 Novels Nest • All rights reserved.
-
