@@ -21,8 +21,13 @@ Soft cream tones, ornate flourishes, and a warm vintage feel.
 
 🛠️ Tech Stack
 HTML5 — Semantic layout
-CSS3 — Grid, transitions, custom fonts
+CSS3 — Grid, transitions, custom fonts!
+
 JavaScript — Intersection Observer animations
 Fonts — Playfair Display, Cormorant Garamond
+
+Screenshots:![NN2](https://github.com/user-attachments/assets/16d30f38-89b4-416b-92df-2e3a6ff5c70e)
+![NN1](https://github.com/user-attachments/assets/dfbbb6d9-8206-46b0-bec7-4561f28cba34)
+
 
 Author-Yashi Gupta
