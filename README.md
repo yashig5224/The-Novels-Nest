@@ -2,11 +2,11 @@
 The Novel’s Nest is a beautifully designed book discovery platform that helps readers explore novels across genres with ease. Built using HTML, CSS, and JavaScript, it offers a clean interface and smooth user interactions — ideal for bibliophiles and web design enthusiasts alike.
 
 # ✨ Features
-📖 Genre-based Browsing – Discover books by categories like Fantasy, Mystery, Romance, and more.
-🔍 Search Functionality – Find novels by title or author in real-time.
-🌈 Aesthetic UI – Smooth, minimal layout with an emphasis on readability and design.
-📱 Responsive Design – Optimized for all screen sizes: desktops, tablets, and mobile devices.
-🎨 Creative Typography & Icons – Stylish fonts and intuitive icons to enhance user experience.
+📖 Genre-based Browsing – Discover books by categories like Fantasy, Mystery, Romance, and more.<br>
+🔍 Search Functionality – Find novels by title or author in real-time.<br>
+🌈 Aesthetic UI – Smooth, minimal layout with an emphasis on readability and design.<br>
+📱 Responsive Design – Optimized for all screen sizes: desktops, tablets, and mobile devices.<br>
+🎨 Creative Typography & Icons – Stylish fonts and intuitive icons to enhance user experience.<br>
 
 # 🗂 Folder Structure
 novels-nest/
