@@ -9,14 +9,14 @@ The Novel’s Nest is a beautifully designed book discovery platform that helps 
 🎨 Creative Typography & Icons – Stylish fonts and intuitive icons to enhance user experience.<br>
 
 # 🗂 Folder Structure
-novels-nest/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
+novels-nest/<br>
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
+├── assets/<br>
+│   ├── images/<br>
+│   └── icons/<br>
+└── README.md<br>
 
 
 ## 🛠️ Built With
