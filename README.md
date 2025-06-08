@@ -41,5 +41,5 @@ Upcoming improvements:<br>
 Feel free to fork the repo, suggest improvements, or create pull requests if you have creative ideas!
 
 ## Designed By
-Yashi Gupta
-Follow on GitHub: yashig5224 
+Yashi Gupta<br>
+Follow on GitHub: yashig5224<br> 
